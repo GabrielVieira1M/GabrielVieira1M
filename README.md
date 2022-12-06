@@ -1,4 +1,5 @@
-## Seja bem vindo(a)! Gabriel Aqui!
+
+## Fala dev, Gabriel Vieira Aqui!
 
 <div>
   
@@ -25,7 +26,7 @@
     <a href = "https://www.linkedin.com/in/luigi-gottardello-fonseca-44651a205/">
       <img width="25" src="linkedin.svg">
     </a>
-    <a href = "https://www.instagram.com/gabrielvieira.1prog/">
+    <a href = "https://www.instagram.com/devparadev/">
       <img width="25" src="instagram.png">
     </a>
 </div>
