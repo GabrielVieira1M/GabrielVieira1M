@@ -23,7 +23,7 @@
     <a href = "mailto: gabrielvieira1mdev@gmail.com">
       <img width="30" src="gmail.svg">
     </a>
-    <a href = "https://www.linkedin.com/in/luigi-gottardello-fonseca-44651a205/">
+    <a href = "https://www.linkedin.com/in/gabriel-vieira-marcondes-813aa6255/">
       <img width="25" src="linkedin.svg">
     </a>
     <a href = "[https://www.instagram.com/gabrielvieira.1prog/](https://www.linkedin.com/in/gabriel-vieira-marcondes-813aa6255/)">
