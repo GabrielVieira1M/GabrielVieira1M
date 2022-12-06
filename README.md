@@ -2,8 +2,8 @@
 ## Fala dev, Gabriel Vieira Aqui!
 
 <div> 
-  <img  height="160em" src="https://github-readme-stats.vercel.app/api?username=GabrielVieira1M&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
-  <img align="right" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielVieira1M&layout=compact&langs_count=16&theme=great-gatsby"/>
+  <img  height="170em" src="https://github-readme-stats.vercel.app/api?username=GabrielVieira1M&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
+  <img align="right" height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielVieira1M&layout=compact&langs_count=16&theme=great-gatsby"/>
 </div>
 <br>
 
@@ -25,7 +25,7 @@
     <a href = "https://www.linkedin.com/in/luigi-gottardello-fonseca-44651a205/">
       <img width="25" src="linkedin.svg">
     </a>
-    <a href = "https://www.instagram.com/devparadev/">
+    <a href = "[https://www.instagram.com/gabrielvieira.1prog/](https://www.linkedin.com/in/gabriel-vieira-marcondes-813aa6255/)">
       <img width="25" src="instagram.png">
     </a>
 </div>
